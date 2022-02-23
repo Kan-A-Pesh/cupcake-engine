@@ -1,0 +1,8 @@
+{
+	"cSpell.words": [
+		"Opengl"
+	],
+	"autoSnippet.snippets": [
+		{ "pattern": "**/*.cs", "snippet": "template" },
+	]
+}
